@@ -1,9 +1,9 @@
-# Course XYZ - X Y Z
-Estrutura de pastas padrão para organização de disciplinas.
+# PAA - PROJETO DE ANÁLISE DE ALGORITMOS
+**Ementa**: Estruturas de dados e seus algoritmos: listas, pilhas, filas, árvores e grafos. Conceitos de complexidade assintótica: notação O, Ω e Θ; indução; somatórios e relação de recorrência. Paradigmas de projeto de algoritmos. Conceitos e classificação de problemas NP-completos.
 
 ## Estrutura
 ```
-course_xyz/
+course_ppa/
 ├── 1_classes/
 ├── 2_materials/
 └── 3_assignments/
